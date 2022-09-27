@@ -1,0 +1,49 @@
+.box {font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  width: 80%;
+  height: 325px;
+}
+
+.redbox {
+  padding: 10px;
+  width: 27%;
+  height: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+textarea {
+  border: 1px solid red;
+  width: 95%;
+}
+.messagebox {
+  padding: 10px;
+  width: 100%;
+}
+.inputbutton {
+  display: flex;
+  flex-flow: column;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+}
+.input {
+  padding: 10px;
+}
+input {
+  border: 1px solid red;
+}
+.button {
+  font-size: 18px;
+
+  background-color: red;
+  color: white;
+}
+.emailus {
+  padding: 10px;
+}
+form{  font-size: 18px;
+}
